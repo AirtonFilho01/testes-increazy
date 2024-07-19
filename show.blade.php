@@ -1,18 +1,3 @@
-<!-- resources/views/user/show.blade.php -->
-<!-- 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Exibir Usuário</title>
-</head>
-<body>
-    <h3>{{ $consulta }}</h3>
-
-    
-</body>
-</html>
--->
-<!-- resources/views/user/show.blade.php -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
