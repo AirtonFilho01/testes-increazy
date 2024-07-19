@@ -21,17 +21,8 @@ class Controller
             $data = $response->getBody()->getContents();
             
             $res = $res . PHP_EOL  . $data;
-
-
-        }
+     }
         
         return view('user.show', ['consulta' => $res]);
     }
-
-    public function tratarDados($dados)
-    {
-        
-        print $dados;
-    }
- 
 }
